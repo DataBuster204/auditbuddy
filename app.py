@@ -323,15 +323,8 @@ with st.sidebar:
     st.divider()
 
     # API Key
-    api_key = st.text_input(
-        "OpenAI API Key",
-        type="password",
-        value=os.getenv("OPENAI_API_KEY", ""),
-        help="Your key is never stored. Get one at platform.openai.com",
-        placeholder="sk-...",
-    )
+    api_key = os.getenv("OPENAI_API_KEY", "")
 
-    st.divider()
 
     # File upload
     st.markdown("**Upload Document**")
