@@ -1,0 +1,17 @@
+# ── AuditBuddy White-Label Configuration ──────────────────────────────────
+# Change these values to rebrand the entire app for any client.
+# No code changes needed — just update this file.
+
+company:
+  name: "AuditBuddy"
+  tagline: "AI-Powered Financial Document Analyser"
+  logo: ""                  # Path to logo file e.g. "assets/logo.png"
+  website: "olumidedaramola.dev"
+  built_by: "Olumide Daramola"
+
+colors:
+  primary: "#25C866"        # Main accent color (buttons, borders, highlights)
+  dark: "#0A1628"           # Sidebar and header background
+  dark_mid: "#0F2040"       # Secondary dark shade
+  light_bg: "#F8FFFE"       # Card and page backgrounds
+  text_muted: "#64748B"     # Subtitles and captions

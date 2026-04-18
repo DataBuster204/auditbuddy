@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 50">
+  <rect width="200" height="50" rx="8" fill="#0A1628"/>
+  <rect width="6" height="50" rx="3" fill="#25C866"/>
+  <text
+    x="22"
+    y="33"
+    font-family="Arial, sans-serif"
+    font-size="22"
+    font-weight="700"
+    fill="white"
+    letter-spacing="0.5"
+  >Audit</text>
+  <text
+    x="82"
+    y="33"
+    font-family="Arial, sans-serif"
+    font-size="22"
+    font-weight="700"
+    fill="#25C866"
+    letter-spacing="0.5"
+  >Buddy</text>
+</svg>
